@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <link rel="icon" type="image/png" sizes="16x16" href="/favicon.png"> -->
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon.svg">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon.ico">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="dns-prefetch" href="//www.googletagmanager.com">
+    <link rel="dns-prefetch" href="//www.google-analytics.com">
+    <link rel="dns-prefetch" href="//adservice.google.com">
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
+    <link rel="dns-prefetch" href="//tpc.googlesyndication.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+    <meta name="robots" content="nofollow, noindex"/>
+    <style>
+        body{
+            font-family: "Montserrat", sans-serif;
+        }
+        .popup-overlay{
+            font-family: 'Edu VIC WA NT Beginner', cursive;
+        }
+        [x-cloak] { display: none !important; }
+     </style>
+        <script>
+            // Apply the correct theme based on localStorage or system preference
+        if (localStorage.theme === 'dark' || 
+            (!localStorage.theme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.classList.add('dark');
+        } else {
+            document.documentElement.classList.remove('dark');
+        }
+        </script>
+
+
+    {% block meta %}
+
+    {% endblock meta %}
+</head>
+<body> 
+    {% include 'partial/header.html' %}
+    {% block body %}
+    
+    {% endblock body %}
+    {% include 'partial/popup.html' %}
+    {% include 'partial/footer.html' %}
+    <script src="/script/unit.js"></script>
+    <script src="/script/alpine.js"></script>
+    <script src="/script/popup.js"></script>
+
+    <script>
+        document.addEventListener('click', function(event) {
+  const dropdown = document.querySelector('[x-data]');
+  if (!dropdown.contains(event.target)) {
+    // If the click is outside the dropdown
+    dropdown.__x.$data.open = false;
+  }
+});
+    </script>
+</body>
+</html>

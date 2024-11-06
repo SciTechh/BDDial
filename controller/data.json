@@ -1,0 +1,531 @@
+{
+    "Services": [
+        {
+            "type": "loan",
+            "Name": "Bajaj Housing Finance",
+            "mobile": "01213456789",
+            "address": "Gulmohar Complex, Bachelor Road, opposite Daga Hospital, Radha Nagar, Dhantoli, Wardha, Maharashtra 442001",
+            "images": "/images/loanbajaj1.png"
+        },
+        {
+            "type": "loan",
+            "Name": "LIC Housing Finance Ltd",
+            "mobile": "01213456789",
+            "address": " Kakani Complex, 1st Floor, Arvi Rd, Gandhi Nagar, Wardha, Maharashtra 442001",
+            "images": "/images/loan2lic.jpg"
+        },
+        {
+            "type": "loan",
+            "Name": "PNB Housing",
+            "mobile": "01213456789",
+            "address": "Apartment No. 301, 3rd Floor, Plot No. 1 & 2, Gupta House, Ravindra Nath Tagore Marg, Nagpur, Maharashtra 440001",
+            "images": "/images/loancoma.jpg"
+        },
+        {
+            "type": "loan",
+            "Name": "TATA Capital",
+            "mobile": "01213456789",
+            "address": "1st Floor, Pandurang Building, Dhantoli Square, Bachelor Road, Wardha, Maharashtra 442001",
+            "images": "/images/loantata.jpg"
+        },
+        {
+            "type": "loan",
+            "Name": "ICICI Bank",
+            "mobile": "01213456789",
+            "address": " Shivaji Chowk, Arvi Road, Gandhi Niwas, Wardha, Maharashtra 442001",
+            "images": "/images/loanicic.jpg"
+        },
+        {
+            "type": "automobile",
+            "Name": "Seva Automotive Pvt Ltd",
+            "mobile": "01213456789",
+            "address": "Nagpur Road, Nalwadi, Wardha - 442001, Gopuri Chowk ",
+            "images": "/images/autom1.jfif"
+        },
+        {
+            "type": "automobile",
+            "Name": "Eros Motor Hyundai Showroom..",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/autom2.jfif"
+        },
+        {
+            "type": "automobile",
+            "Name": "Arun Ford",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/autom3.jfif"
+        },
+        {
+            "type": "automobile",
+            "Name": "Unnati Motors",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/autom4.jfif"
+        },
+        {
+            "type": "automobile",
+            "Name": "A K Gandhi Cars",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/autom5.jfif"
+        },
+        {
+            "type": "food",
+            "Name": "Shree Caterers And Event Ma..",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/food1.jfif"
+        },
+        {
+            "type": "food",
+            "Name": "One Stop Solution",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/food2.jfif"
+        },
+        {
+            "type": "food",
+            "Name": "Neha Events and Decoration",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/food3.jfif"
+        },
+        {
+            "type": "food",
+            "Name": "Shubham Caterers",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/food4.jfif"
+        },
+        {
+            "type": "food",
+            "Name": "Abhinandan Events Pvt. Ltd.",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/food5.jfif"
+        },
+        {
+            "type": "hospital",
+            "Name": "Varma Test Tube Baby and IV..",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/hosp1.jfif"
+        },
+        {
+            "type": "hospital",
+            "Name": "Dr. Ankush Nawale Spine Spe..",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/hosp2.jfif"
+        },
+        {
+            "type": "hospital",
+            "Name": "Theneerajwellness.com",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/hosp3.jfif"
+        },
+        {
+            "type": "hospital",
+            "Name": "Kasturba Hospital",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/hosp4.jfif"
+        },
+        {
+            "type": "hospital",
+            "Name": "District General Hospital",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/hosp5.jfif"
+        },
+        {
+            "type": "education",
+            "Name": "Jawahar Navodaya Vidyalaya ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/educ1.jfif"
+        },
+        {
+            "type": "education",
+            "Name": "Navrachna Pratishthan ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/educ2.jfif"
+        },
+        {
+            "type": "education",
+            "Name": "Navrachna Pratishthan ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/educ3.jfif"
+        },
+        {
+            "type": "education",
+            "Name": "Defence Career Institute ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/educ4.jfif"
+        },
+        {
+            "type": "education",
+            "Name": "Defence Career Academy ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/educ5.jfif"
+        },
+        {
+            "type": "organizer",
+            "Name": "BOOK YOUR FIRST EVENT ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/event1.jfif"
+        },
+        {
+            "type": "organizer",
+            "Name": "Neha Events and Decoration ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/event2.jfif"
+        },
+        {
+            "type": "organizer",
+            "Name": "One Stop Solution ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/event3.jpg"
+        },
+        {
+            "type": "organizer",
+            "Name": "Mac Honey Events ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/event4.jfif"
+        },
+        {
+            "type": "organizer",
+            "Name": "Fusion Beat Event ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/event5.jfif"
+        },
+        {
+            "type": "courier",
+            "Name": "Blue Dart Express Ltd",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/Courier1.jfif"
+        },
+        {
+            "type": "couriercourier",
+            "Name": "DTDC Express Ltd ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/Courier2.jfif"
+        },
+        {
+            "type": "courier",
+            "Name": "DTDC Express Ltd",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/Courier3.jfif"
+        },
+        {
+            "type": "courier",
+            "Name": "Disha Airways Enterprises ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/Courier4.jfif"
+        },
+        {
+            "type": "courier",
+            "Name": "Tej Couriers",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/Courier5.jfif"
+        },
+        {
+            "type": "fitness",
+            "Name": "Worlds Gym ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/fitness1.jfif"
+        },
+        {
+            "type": "fitness",
+            "Name": "Ap Fitness ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/fitness2.jfif"
+        },
+        {
+            "type": "fitness",
+            "Name": "Urban Fitness ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/fitness3.jfif"
+        },
+        {
+            "type": "fitness",
+            "Name": "360 Degree Fitness Studio ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/fitness4.jfif"
+        },
+        {
+            "type": "fitness",
+            "Name": "Thyrocare Aarogyam Centre ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/fitness5.jfif"
+        },
+        {
+            "type": "jewelry",
+            "Name": "Kanak Jewellers",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/Jewelry1.jfif"
+        },
+        {
+            "type": "jewelry",
+            "Name": "Sumit Jewellers ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/Jewelry2.jfif"
+        },
+        {
+            "type": "jewelry",
+            "Name": "MTD Jewellers",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/Jewelry3.jfif"
+        },
+        {
+            "type": "jewelry",
+            "Name": "Kathane Jewellers",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/Jewelry4.jfif"
+        },
+        {
+            "type": "jewelry",
+            "Name": "Kathane Sons Jewellers ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/Jewelry5.jfif"
+        },
+        {
+            "type": "medical",
+            "Name": "Anandam Medical ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/Medical1.jfif"
+        },
+        {
+            "type": "medical",
+            "Name": "Rukmini Medical Store ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/Medical2.jfif"
+        },
+        {
+            "type": "medical",
+            "Name": "Shri Gurudeo Medicals ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/Medical3.jfif"
+        },
+        {
+            "type": "medical",
+            "Name": "Janki Medicals ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/Medical4.jfif"
+        },
+        {
+            "type": "medical",
+            "Name": "Laxmi Generic Medical Store",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/Medical5.jfif"
+        },
+        {
+            "type": "bookstore",
+            "Name": "Gandhi book depo ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/book1.jfif"
+        },
+        {
+            "type": "bookstore",
+            "Name": "Kelkar book depo ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/book2.jfif"
+        },
+        {
+            "type": "bookstore",
+            "Name": "Kales book depo ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/book3.jfif"
+        },
+        {
+            "type": "bookstore",
+            "Name": "Mahindra book depo ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/book4.jfif"
+        },
+        {
+            "type": "bookstore",
+            "Name": "Bhudada book depo",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/book5.jfif"
+        },
+        {
+            "type": "movie",
+            "Name": "Durga talkies",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/talkies1.jfif"
+        },
+        {
+            "type": "movie",
+            "Name": "Rajtalkies",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/talkies2.jfif"
+        },
+        {
+            "type": "movie",
+            "Name": "Ganesh talkes",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/talkies3.jfif"
+        },
+        {
+            "type": "movie",
+            "Name": "Aarti talkies",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/talkies4.jfif"
+        },
+        {
+            "type": "movie",
+            "Name": "Multiflex",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/talkies5.jfif"
+        },
+        {
+            "type": "mobile",
+            "Name": "Mayur Mobile shop ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/mobile1.webp"
+        },
+        {
+            "type": "mobile",
+            "Name": "Samsung Mobile shop ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/mobile2.jfif"
+        },
+        {
+            "type": "mobile",
+            "Name": "Vivo Mobile shop ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/mobile3.jfif"
+        },
+        {
+            "type": "mobile",
+            "Name": "Realme Mobile shop ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/mobile4.jpg"
+        },
+        {
+            "type": "mobile",
+            "Name": "Mi Mobile shop ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/mobile5.jpg"
+        },
+        {
+            "type": "demand",
+            "Name": "Dmart",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/onDemand1.png"
+        },
+        {
+            "type": "demand",
+            "Name": "welding shop",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/onDemand2.png"
+        },
+        {
+            "type": "demand",
+            "Name": "cycle shop ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/onDemand3.jfif"
+        },
+        {
+            "type": "demand",
+            "Name": "kirana bhandar ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/donDemand4.jfif"
+        },
+        {
+            "type": "demand",
+            "Name": "Electric shop ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/onDemand5.jfif"
+        },
+        {
+            "type": "car",
+            "Name": "Sachin Cab Service (Taxi) ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/carcab1.jfif"
+        },
+        {
+            "type": "car",
+            "Name": "Sairam Cool Cab Services ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/carcab2.jfif"
+        },
+        {
+            "type": "car",
+            "Name": "BOOK-A-CAB Car Rental Services",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/carcab3.jfif"
+        },
+        {
+            "type": "car",
+            "Name": "Jai Gurudev Cab Services",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/carcab4.jfif"
+        },
+        {
+            "type": "car",
+            "Name": "Saransh Cab Service ",
+            "mobile": "01213456789",
+            "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, velit!",
+            "images": "/images/carcab5.jfif"
+        }
+    ]
+    }
+    
+    
