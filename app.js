@@ -35,6 +35,8 @@ app.use(
     cssMatch: /css/,
   })
 );
+app.use(express.urlencoded({ extended: true }));
+app.use(express.json());
 
 // Middleware to parse JSON
 app.use(express.json());
@@ -49,7 +51,8 @@ app.set("view engine", "html");
 // Dynamic route based on the timer value
 
 app.use("/", routes);
-
+const authRoutes = require('./routes/auth');
+app.use('/', authRoutes);
 
 const PORT = process.env.port || 3000
 

@@ -1,6 +1,7 @@
 const express = require("express")
 const router = express.Router();
 const {getServices} = require("../controller/services")
+const authController = require("../controller/authController");
 
 // router.route("/").get(getIndex)
 router.route("/services/:slug").get(getServices)
@@ -20,5 +21,13 @@ router.get('/terms-of-service', (req, res) => {
 router.get('/privacy-policy', (req, res) => {
   res.render('privacy-policy.html')
 })
+
+
+router.get('/login', (req, res) => {
+  res.render('login', { message: null });
+});
+
+// Handle login form submission
+router.post('/login', authController.login);
 
 module.exports = router;
